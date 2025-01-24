@@ -23,4 +23,9 @@
 - Framework Zod - Schema Validation
 - Framework Express
 
+<br>
+
+<p align="center">
+  <img alt="Sistema de Reembolso" src="./github/fluxo.png" width="100%">
+</p>
 
